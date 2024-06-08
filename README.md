@@ -60,8 +60,9 @@ Python Libraries:
  - pyautogui
  - Numpy
  - Anaconda
-<img src="Media/minor FINAL.pdf-image-027.jpg" alt="Move Cursor" width="473" height="419"><br>
-<img src="Media/minor FINAL.pdf-image-021.jpg" alt="Move Cursor" width="800" height="372"><br>
+ - 
+<img src="Media/minor FINAL.pdf-image-027.jpg"  width="473" height="419"><br>
+<img src="Media/minor FINAL.pdf-image-021.jpg"  width="800" height="372"><br>
 
 
 ## Pre-requisites
