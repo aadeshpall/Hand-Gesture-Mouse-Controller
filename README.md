@@ -52,62 +52,63 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
 
-<details>
-<summary>Multiple Item Selection</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/multiple%20item%20selection.gif" alt="Multiple Item Selection" width="711" height="400"><br>
- <figcaption>Gesture to select multiple items</figcaption>
-</details>
+## Tools and Technologies
 
-## Dependencies
 
-Following are the major dependencies of the project:
-
-- axios
-- react
-- react-dom
-- react-redux
-- react-router-dom
-- react-toastify
-- redux
-- redux-thunk
-- bcrypt
-- cors
-- dotenv
-- express
-- jsonwebtoken
-- mongoose
-
-## Dev-dependencies
-
-Following are the major dev-dependencies of the project:
-
-- nodemon
-- concurrently
+## Pre-requisites
+Python: (3.6 - 3.8.5)
+Anaconda Distribution:
 
 ## Setup
+### Procedure
+  ```bash
+  git clone https://github.com/xenon-19/Gesture-Controlled-Virtual-Mouse.git
+  ```
+  For detailed information about cloning visit [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
+  
+  Step 1: 
+  ```bash
+  conda create --name gest python=3.8.5
+  ```
+  
+  Step 2:
+  ```bash
+  conda activate gest
+  ```
+Step 3:
+  ```bash
+  pip install -r requirements.txt
+  ```
+  
+  Step 4:
+  ```bash 
+  conda install PyAudio
+  ```
+  ```bash 
+  conda install pywin32
+  ```
+  
+  Step 5:
+  ``` 
+  cd to the GitHub Repo till src folder
+  ```
+  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
 
-Clone the repo
-```
-$ git clone https://github.com/aadeshpalpal/Task-Management-Dashboard-MERN-.git
-```
-## Installation
-1. Install all the dependencies
+  Step 6:
+  
+  For running Voice Assistant:
+  ```bash 
+  python Proton.py
+  ```
+  ( You can enable Gesture Recognition by using the command "Proton Launch Gesture Recognition" )
+  
+  Or to run only Gesture Recognition without the voice assisstant:
+  
+  Uncomment last 2 lines of Code in the file `Gesture_Controller.py`
+  ```bash 
+  python Gesture_Controller.py
+  ```
 
-   ```sh
-   npm run install-all
-   ```
-
-2. Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
-
-3. Start the application
-
-   ```sh
-   npm run dev
-   ```
-
-4. Go to http://localhost:3000
-
-PS: You should have Node.js and MongoDB database.
 
 ## Contact
 
