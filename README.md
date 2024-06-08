@@ -61,8 +61,8 @@ Python Libraries:
  - Numpy
  - Anaconda
 
-<div align= "center"><img src="Media/minor FINAL.pdf-image-027.jpg" /></div>
-<div align= "center"><img src="Media/minor FINAL.pdf-image-021.jpg" /></div>
+<div align= "center"><img src="Media/minor FINAL.pdf-image-027.png" /></div>
+<div align= "center"><img src="Media/minor FINAL.pdf-image-021.png" /></div>
 <img src="Media/minor FINAL.pdf-image-027.jpg"  width="473" height="419"><br>
 <img src="Media/minor FINAL.pdf-image-021.jpg"  width="800" height="372"><br>
 
