@@ -16,7 +16,7 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
 <details>
 <summary>Neutral Gesture(Palm)</summary>
  <figure>
-  <img src="Media/minor FINAL.pdf-image-033.jpg" alt="Move Cursor" width="552" height="490"><br>
+  <img src="Media/minor FINAL.pdf-image-033.jpg" alt="Move Cursor" width="452" height="390"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
