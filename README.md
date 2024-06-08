@@ -72,7 +72,9 @@ Python Libraries:
 <summary>**Architecture Design**</summary>
   <img src="Media/minor FINAL.pdf-image-027.png"  width="773" height="719">
 </details>
----
+
+
+----
 
 ## Pre-requisites
 Python: (3.6 - 3.8.5)
