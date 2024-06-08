@@ -53,14 +53,19 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
 </details>
 
 ## Tools and Technologies
-
+Python: Version (3.6 - 3.8.5)
+Python Libraries:
+	- OpenCV
+	- mediapipe
+	- pyautogui
+	- Numpy
+ - Anaconda
 
 ## Pre-requisites
 Python: (3.6 - 3.8.5)
 Anaconda Distribution:
 
 ## Setup
-### Procedure
 
   Step 0:
   ```bash
@@ -71,7 +76,7 @@ Anaconda Distribution:
   ```bash
   conda create --name gest python=3.8.5
   ```
-Go to Anaconda and create ==python=3.8.5== virtual environment
+Go to Anaconda and create **python=3.8.5** virtual environment
 OR put this above command in Anaconda Prompt(CLI)
   
   Step 2:
@@ -98,7 +103,7 @@ Step 3:
   ``` 
   cd to the GitHub Repo till src folder
   ```
-  Now go to projects ==src== file
+  Now go to projects **src** file
 
   Step 6:
   Now run this .py file **python Gesture_Controller.py**
