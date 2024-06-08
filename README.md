@@ -101,7 +101,7 @@ Step 3:
   Now go to projects ==src== file
 
   Step 6:
-  Now run this .py file == python Gesture_Controller.py ==
+  Now run this .py file **python Gesture_Controller.py**
 
 ## Contact
 
