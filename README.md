@@ -16,7 +16,8 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
 <details>
 <summary>Neutral Gesture(Palm)</summary>
  <figure>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/palm.gif" alt="Palm" width="711" height="400"><br>
+  <img ![image](https://github.com/aadeshpall/Hand-Gesture-Mouse-Controller/assets/120742936/4207ad24-2f47-4e54-9031-7d586227e67b)
+" alt="Palm" width="711" height="400"><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
