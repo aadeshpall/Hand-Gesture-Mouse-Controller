@@ -2,11 +2,9 @@
 
 ## :bookmark_tabs:Table of contents
 * [Project info](#Project-info)
+* [Features](#Features)
 * [Tools and Technologies](#Tools-and-Technologies)
-* [Dependencies](#Dependencies)
-* [Dev-dependencies](#Dev-dependencies)
 * [Setup](#setup)
-* [Installation](#Installation)
 
 ## Project info
 
