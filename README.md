@@ -60,6 +60,8 @@ Python Libraries:
  - pyautogui
  - Numpy
  - Anaconda
+
+**click on dropdown for photo**
 <details>
 <summary>**Co-ordinates or landmarks in the hand using Mediapipe**</summary>
   <img src="Media/minor FINAL.pdf-image-021.png"  width="800" height="372"><br>
