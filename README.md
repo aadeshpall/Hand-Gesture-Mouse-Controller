@@ -55,7 +55,7 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
 ## Tools and Technologies
 Python: Version (3.6 - 3.8.5)
 Python Libraries:
-	- OpenCV
+	* OpenCV
 	- mediapipe
 	- pyautogui
 	- Numpy
