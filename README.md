@@ -61,12 +61,12 @@ Python Libraries:
  - Numpy
  - Anaconda
 <details>
-<summary>Co-ordinates or landmarks in the hand using Mediapipe</summary>
+<summary>**Co-ordinates or landmarks in the hand using Mediapipe**</summary>
   <img src="Media/minor FINAL.pdf-image-021.png"  width="800" height="372"><br>
 </details>
 <details>
-<summary>Architecture Design</summary>
-  <img src="Media/minor FINAL.pdf-image-027.png"  width="573" height="519">
+<summary>**Architecture Design**</summary>
+  <img src="Media/minor FINAL.pdf-image-027.png"  width="773" height="719">
 </details>
 
 
