@@ -6,11 +6,11 @@
 * [Tools and Technologies](#Tools-and-Technologies)
 * [Setup](#setup)
 
-# Project info
+## Project info
 
 The Gesturesflow (Virtual Mouse) is designed to enable users to control their computer's mouse pointer through hand gestures. This system uses a camera to capture the user's hand movements and translates the coordinates of the fingertip to the full-screen computer window, allowing for an intuitive and touch-free interaction with the computer.
 
-# Features
+## Features
  _click on dropdown to know more_ <br>
 
 ### Gesture Recognition:
