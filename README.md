@@ -24,31 +24,31 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
 
 <details>
 <summary>Move Cursor(Peace Sign)</summary>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/e20edfb1f368ffa600d96bd91031942ec97cb2ab/demo_media/move%20mouse.gif" alt="Move Cursor" width="711" height="400"><br>
+  <img src="Media/minor FINAL.pdf-image-034.jpg" alt="Move Cursor" width="452" height="390"><br>
   <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
 </details>
 
 <details>
 <summary>Left Click(Index Finger)</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/left%20click.gif" alt="Left Click" width="711" height="400"><br>
+<img src="Media/minor FINAL.pdf-image-035.jpg" alt="Move Cursor" width="452" height="390"><br>
  <figcaption>Gesture for single left click</figcaption>
 </details>
 
 <details>
 <summary>Right Click(Middle Finger)</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/right%20click.gif" alt="Right Click" width="711" height="400"><br>
+<img src="Media/minor FINAL.pdf-image-039.jpg" alt="Move Cursor" width="452" height="390"><br>
  <figcaption>Gesture for single right click</figcaption>
 </details>
 
 <details>
 <summary>Double Click(Index and Middle)</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/double%20click.gif" alt="Double Click" width="711" height="400"><br>
+<img src="Media/minor FINAL.pdf-image-037.jpg" alt="Move Cursor" width="452" height="390"><br>
  <figcaption>Gesture for double click</figcaption>
 </details>
 
 <details>
 <summary>Drag and Drop(Fist)</summary>
-<img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/drag%20and%20drop.gif" alt="Drag and Drop" width="711" height="400"><br>
+<img src="Media/minor FINAL.pdf-image-038.jpg" alt="Move Cursor" width="452" height="390"><br>
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
 
