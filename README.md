@@ -63,10 +63,11 @@ Python Libraries:
 <details>
 <summary>Co-ordinates or landmarks in the hand using Mediapipe</summary>
   <img src="Media/minor FINAL.pdf-image-021.png"  width="800" height="372"><br>
-  <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
 </details>
-<img src="Media/minor FINAL.pdf-image-027.png"  width="473" height="419">
-<img src="Media/minor FINAL.pdf-image-021.png"  width="800" height="372"><br>
+<details>
+<summary>Architecture Design</summary>
+  <img src="Media/minor FINAL.pdf-image-027.png"  width="573" height="519">
+</details>
 
 
 ## Pre-requisites
