@@ -60,7 +60,11 @@ Python Libraries:
  - pyautogui
  - Numpy
  - Anaconda
-
+<details>
+<summary>Move Cursor(Peace Sign)</summary>
+  <img src="Media/minor FINAL.pdf-image-034.jpg" alt="Move Cursor" width="452" height="390"><br>
+  <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
+</details>
 <img src="Media/minor FINAL.pdf-image-027.png"  width="473" height="419">
 <img src="Media/minor FINAL.pdf-image-021.png"  width="800" height="372"><br>
 
