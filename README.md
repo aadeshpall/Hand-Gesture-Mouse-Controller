@@ -11,6 +11,7 @@
 The Gesturesflow (Virtual Mouse) is designed to enable users to control their computer's mouse pointer through hand gestures. This system uses a camera to capture the user's hand movements and translates the coordinates of the fingertip to the full-screen computer window, allowing for an intuitive and touch-free interaction with the computer.
 
 ## Features
+---
  **_click on dropdown for demo photo_** <br>
 
 <details>
@@ -51,6 +52,8 @@ The Gesturesflow (Virtual Mouse) is designed to enable users to control their co
 <img src="Media/minor FINAL.pdf-image-038.jpg" alt="Move Cursor" width="452" height="390"><br>
  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
 </details>
+
+----
 
 ## Tools and Technologies
 Python: Version (3.6 - 3.8.5)
