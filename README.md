@@ -1,6 +1,4 @@
-<h1 align="center">Gesturesflow (Virtual Mouse)
-![image](https://github.com/aadeshpall/Hand-Gesture-Mouse-Controller/assets/120742936/05599a62-2f62-451b-8b5b-dd77d09dfdff)
-</h1>
+<h1 align="center">Gesturesflow (Virtual Mouse)</h1>
 
 ## :bookmark_tabs:Table of contents
 * [Project info](#Project-info)
